@@ -1,0 +1,7 @@
+传信协议
+数据头大小(uint)+数据头(struct DataHead)+附加数据
+数据头：表示符、数据类型(#define)、附加数据大小(unsigned long long)
+附加数据
+
+#define MSG 0
+#define
